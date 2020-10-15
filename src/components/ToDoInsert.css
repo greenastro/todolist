@@ -1,0 +1,22 @@
+.ToDoInsert{
+    display: flex;
+    height: 30px;
+    
+}
+.InputBox{
+    text-align: center;
+    width: 100%;
+    border:none;
+    background-color: #87cfeb86;
+    color:slateblue;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.Btn{
+    border:none;
+    color: slateblue;
+    
+
+}

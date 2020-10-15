@@ -1,0 +1,16 @@
+.ToDoTemp{
+    width:  600px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.App-Title{
+    text-align: center;
+    background-color: lavender;
+    color: purple;
+    font-weight: bolder;
+    font-size: 20px;
+  
+}
